@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "620fc0eb-c221-4189-9620-52ea0011d5d9",
+    "MedicineId": "c3333333-3333-3333-3333-333333333333",
+    "MedicineName": "Cetirizine 10mg",
+    "QuantitySold": 4,
+    "UnitPrice": 8.00,
+    "TotalPrice": 32.00,
+    "SaleDate": "2026-09-21T12:30:35.3440047Z"
+  }
+]
